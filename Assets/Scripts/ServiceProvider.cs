@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using Null;
 using UnityEngine;
 
 public class ServiceProvider : MonoBehaviour
@@ -41,6 +42,20 @@ public class ServiceProvider : MonoBehaviour
         }
 
         return default;
+    }
+
+    public static T GetService<T, TU>(TU nullService) where TU : T
+    {
+        T service = GetService<T>();
+        
+        if (service.Equals(default))
+        {
+            Debug.LogWarning($"There is no {typeof(T)}!");
+            services.Add(typeof(T), nullService);
+            return nullService;
+        }
+
+        return service;
     }
 
     #endregion
