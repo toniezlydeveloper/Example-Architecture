@@ -1,9 +1,9 @@
 {
-    "name": "Tests1",
+    "name": "EnemySpawnerTests",
     "references": [
         "UnityEngine.TestRunner",
         "UnityEditor.TestRunner",
-        "NewAssembly"
+        "Testing"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
