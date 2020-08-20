@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Null
+namespace NullObject
 {
     public class SomeMonoBehaviour : MonoBehaviour
     {

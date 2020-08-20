@@ -20,16 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19359ab2-e591-4161-b708-f6521c2f0cd1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Null/Enemy.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Null/Enemy.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Null/EnemySpawner.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Null/EnemySpawner.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Null/Tests/EnemySpawnerTests.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Null/Tests/EnemySpawnerTests.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Example-Architecture/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Example-Architecture/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Example-Architecture/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Example-Architecture/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Example-Architecture/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Example-Architecture/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Null/IEnemySpawner.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Null/IEnemySpawner.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Null/NullEnemySpawner.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Null/NullEnemySpawner.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,10 +39,12 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/ServiceProvider.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Null/Tests/EnemySpawner.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Null/Enemy.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Null/IEnemySpawner.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Null/NullEnemySpawner.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Null/EnemySpawner.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Null/Tests/EnemySpawnerTests.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Null/IEnemySpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Null/NullEnemySpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Testing/IEnemySpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Testing/Tests/EnemySpawnerTests.cs" />
       </list>
     </option>
   </component>
@@ -99,6 +93,7 @@
       <workItem from="1597838257704" duration="43000" />
       <workItem from="1597872581448" duration="1078000" />
       <workItem from="1597875469970" duration="397000" />
+      <workItem from="1597925881640" duration="850000" />
     </task>
     <servers />
   </component>

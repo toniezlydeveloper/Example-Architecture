@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Null
+namespace NullObject
 {
     public class NullEnemySpawner : IEnemySpawner
     {
